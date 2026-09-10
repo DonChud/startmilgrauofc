@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="STARTMILGRAU">
+<rect width="512" height="512" rx="112" fill="#0b0d12"/>
+<path d="M102 132h308v62H286v186h-60V194H102z" fill="#ff3b30"/>
+<path d="M110 318h106v62H110zM296 318h106v62H296z" fill="#f7f8fa"/>
+<text x="256" y="286" text-anchor="middle" fill="#f7f8fa" font-family="Arial, sans-serif" font-size="76" font-weight="900" letter-spacing="-6">SMG</text>
+</svg>
